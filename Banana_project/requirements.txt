@@ -1,0 +1,7 @@
+pip install streamlit as st 
+pip install keras
+pip install numpy as np
+pip install tensorflow as tf
+pip install cv2 
+pip install PIL 
+pip install joblib
